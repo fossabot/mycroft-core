@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md) [![CLA](https://img.shields.io/badge/CLA%3F-Required-blue.svg)](https://mycroft.ai/cla) [![Team](https://img.shields.io/badge/Team-Mycroft_Core-violetblue.svg)](https://github.com/MycroftAI/contributors/blob/master/team/Mycroft%20Core.md) ![Status](https://img.shields.io/badge/-Production_ready-green.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMycroftAI%2Fmycroft-core.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FMycroftAI%2Fmycroft-core?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/MycroftAI/mycroft-core.svg?branch=master)](https://travis-ci.org/MycroftAI/mycroft-core) [![Coverage Status](https://coveralls.io/repos/github/MycroftAI/mycroft-core/badge.svg?branch=dev)](https://coveralls.io/github/MycroftAI/mycroft-core?branch=dev)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -145,3 +146,7 @@ Join the [Mycroft Forum](https://community.mycroft.ai/) for questions and answer
 * [Mycroft Chat](https://chat.mycroft.ai)
 * [Mycroft Forum](https://community.mycroft.ai)
 * [Mycroft Blog](https://mycroft.ai/blog)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMycroftAI%2Fmycroft-core.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMycroftAI%2Fmycroft-core?ref=badge_large)
